@@ -1,2 +1,2 @@
-_G.AuthKey = "9719d583-a4eb-4a03-b042-55472498fdc5"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/RobIoxScripts/GUI/main/load"))()
+_G.License = "4d0b38c0795641f0a97c"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/psx-Scripts/psxsc/main/script.lua"))()
